@@ -62,7 +62,7 @@ This script is a basic Tumblr bot. It will post three things from a **list** ins
 
 3. Take a look at the rest of the script and try to figure out what it's doing. Use the comments (preceded by #) for context.
 
-4. When you are ready to run the bot, uncomment lines 29-38 and run the script again. (Hint: in VSCode you can highlight lines 29-38 and use `CMD(mac)/CTRL(windows)` + `\` to uncomment all the lines).
+4. When you are ready to run the bot, uncomment lines 29-38 and run the script again. (Hint: in VSCode you can highlight lines 29-38 and use `CMD(mac)/CTRL(windows)` + `?` to uncomment all the lines).
 
 5. Go to your Tumblr to see these posts: https://(your-blog-name).tumblr.com/
 
